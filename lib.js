@@ -1,3 +1,3 @@
-export function greet() {
+function greet() {
   return "Hello from cdn-asset"
 }
